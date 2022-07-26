@@ -31,7 +31,7 @@ Check How To Make MONGODB URL on YouTube `https://youtu.be/aXlF80Cn7iU`
 
 
 
-<p align="left"><a href="https://www.heroku.com/deploy?template=https://github.com/Tellybots/Uploader-Bot">
+<p align="left"><a href="https://www.heroku.com/deploy?template=https://github.com/Tellybots/Url-Uploader-Bot">
     <img src="https://img.shields.io/badge/Deploy%20To Heroku-purple?style=for-the-badge&logo=Heroku" alt="herokudeploy-01" border="0" height="30" width="200"></a>
 </p>
 
