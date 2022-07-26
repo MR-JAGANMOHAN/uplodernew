@@ -64,4 +64,4 @@ class Config(object):
     TIME_GAP1 = {}
     TIME_GAP2 = {}
     timegap_message = {}
-    TG_PRM_FILE_SIZE = 4194304000
+    
