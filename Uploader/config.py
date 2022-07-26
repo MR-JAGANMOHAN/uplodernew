@@ -60,8 +60,5 @@ class Config(object):
     ADL_BOT_RQ = {}
     AUTH_USERS = list(set(int(x) for x in os.environ.get("AUTH_USERS", "0").split()))
     AUTH_USERS.append(OWNER_ID)
-    RESTART_TIME = []
-    TIME_GAP1 = {}
-    TIME_GAP2 = {}
-    timegap_message = {}
+
     
