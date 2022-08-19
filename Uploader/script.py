@@ -11,7 +11,7 @@ Hi {} 🥰
 
 Use help button to know how to use me
 
-🦊 <b>Maintained By</b> : [Tellybots](https://telegram.me/TellyBots)
+🦊 <b>Maintained By</b> : [Botz Hub](https://telegram.me/TellyBots)
 """
     HELP_TEXT = """
 You need Help ?? 😅
@@ -28,13 +28,13 @@ You need Help ?? 😅
 
 ✵ Use `/caption` to Set caption as Reply to Media
 
-Maintained By : [Tellybots](https://telegram.me/TellyBots)
+Maintained By : [Botz Hub](https://t.me/My_Test_Botz)
  
 """
     ABOUT_TEXT = """
-**♻️ My Name** : [Url Uploader Bot](http://t.me/TellyUploaderRobot)
+**♻️ My Name** : [URL UPLODER BOT Bot](https://t.me/URL_UPLODER_MB_BOT)
 
-**🌀 Channel** : [Tellybots](https://t.me/TellyBots)
+**🌀 Channel** : [Botz Hub](https://t.me/My_Test_Botz)
 
 **⚗️ Version** : [4.0 Beta](https://t.me/TellyUploaderRobot)
 
@@ -46,9 +46,9 @@ Maintained By : [Tellybots](https://telegram.me/TellyBots)
 
 **🇵🇲 Framework :** [Pyrogram 2.0.30](https://docs.pyrogram.org/)
 
-**👲 Developer :** [Tellybots](https://t.me/tellybots)
+**👲 Developer :** [Botz Hub](https://t.me/My_Test_Botz)
 
-**🦊 Maintained By :** [NaysaBots](https://t.me/NaysaBots)
+**🦊 Maintained By :** [Botz Hub](https://t.me/My_Test_Botz)
 
 """
 
