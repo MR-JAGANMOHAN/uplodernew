@@ -12,8 +12,8 @@
     "remote",
     "uploader"
   ],
-  "website": "https://github.com/Tellybots",
-  "repository": "https://github.com/PlanetBots",
+  "website": "https://github.com/jagan1857",
+  "repository": "https://github.com/jagan1857/uplodernew",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
