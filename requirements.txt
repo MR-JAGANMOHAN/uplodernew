@@ -17,4 +17,5 @@ tldextract
 aiofiles
 pyromod
 yt-dlp
+wget
 
